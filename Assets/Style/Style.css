@@ -1,0 +1,118 @@
+html {
+  scroll-behavior: smooth;
+}
+.nav-link {
+  color: darkgrey!important;
+  font-weight: 700;
+}
+.nav-link:hover {
+  color: #403541!important;
+  font-weight: 500;
+}
+
+body {
+  background: linear-gradient(#26292B 0%, #FEF4F4 40%, #A2B2EE 100%);
+}
+.aboutosis {
+  background: linear-gradient(#ffffff 0%, #ffffff 80%, #ffffff00 100%);
+  padding-bottom: 70px;
+  padding-top: 70px;
+}
+.aboutosis h1{
+  font-family: Eras Bold ITC;
+  font-size: 3rem;
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 150px;
+}
+.LOGOOSIS {
+  width: 270px;
+}
+.profile h2 {
+  font-family: "Lucida Sans";
+  color: rgb(0, 0, 0);
+  transform: translateY(10px);
+}
+.profile h3 {
+  font-family: "Lucida Sans";
+  color: rgb(0, 0, 0);
+}
+.descriptions {
+  padding-bottom: 20px;
+  padding-top: 70px;
+}
+.pisi{
+  font-weight: 700;
+  font-style: italic;
+}
+.visi{
+  text-align: justify;
+  /*margin-right: 2rem;
+  margin-left: -5rem;*/
+}
+.list{
+  text-align: justify;
+  /*margin-right: -30px;
+  margin-left: -7px;*/
+}
+.descriptions h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular";
+  font-style: italic;
+}
+.Bidang {
+  padding-top: 70px;
+}
+.sekbid {
+  font-size: 110%;
+  font-family: Maiandra GD;
+  font-weight: 600;
+}
+.row h6{
+  font-size: 110%;
+  font-family: Maiandra GD;
+  font-weight: 600;
+}
+.row h7{
+  text-align: center;
+  font-weight: 500;
+  line-height: 50px;
+}
+.nama{
+  line-height: 17px;
+}
+.back{
+  margin-left: 25px;
+  background: rgba(0, 0, 0, 0.137);
+  border-radius: 10px;
+}
+.Bidang {
+  background-color: #ffffff;
+}
+.Bidang h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular";
+  font-style: italic;
+  padding-bottom: 40px;
+}
+.footer {
+  background-color: #A2B2EE;
+  padding-bottom: 50px;
+}
+.footer h1 {
+  padding-bottom: 50px;
+  font-family: Garamond;
+  font-weight: 700;
+}
+.iconss a{
+  color: #303030;
+  font-size: 15px;
+  padding-top: -30px;
+  padding-bottom: -30px;
+  line-height: 40px;
+}
+.iconss a:hover {
+  color: #990b0b!important;
+}
